@@ -25,4 +25,4 @@ structures and then re-optimizes the pruned structure, reducing computational co
 speed for DeiT-Base model, with only a 1.55%
 drop in accuracy
 
-
+![SERo](SERo.png)
