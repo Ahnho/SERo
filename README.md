@@ -1,7 +1,6 @@
 # Sparse Structure Exploration and Re-optimization for Vision Transformer(SERo)
 
-## This repository provides the code for the UAI 2025 paper titled 	
-"Sparse Structure Exploration and Re-optimization for Vision Transformer (SERo)" by S. An, J. Kim, K. Lee, J. Huh, C. Kwak, Y. Lee, M. Jin, J. Kim
+## This repository provides the code for the UAI 2025 paper titled "Sparse Structure Exploration and Re-optimization for Vision Transformer (SERo)" by S. An, J. Kim, K. Lee, J. Huh, C. Kwak, Y. Lee, M. Jin, J. Kim
 
 ## Collaboration
 This work was conducted in collaboration with Hyundai Motor Company Robotics Team.
