@@ -5,6 +5,8 @@
 ## Collaboration
 This work was conducted in collaboration with Hyundai Motor Company Robotics Team.
 
+![SERo](SERo.png)
+
 ## Abstract
 Vision Transformers (ViTs) achieve outstanding
 performance by effectively capturing long-range
@@ -24,4 +26,3 @@ structures and then re-optimizes the pruned structure, reducing computational co
 speed for DeiT-Base model, with only a 1.55%
 drop in accuracy
 
-![SERo](SERo.png)
